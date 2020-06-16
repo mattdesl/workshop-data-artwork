@@ -11,6 +11,9 @@ With pen and pencil, come up with a short set of instructions that produces some
 #### 📚 References
 
 - [Sol LeWitt](http://www.artnet.com/artists/sol-lewitt/)
+
+  - Also see [SolvingSol.com]([SolvingSol.com](https://solvingsol.com/solutions/))
+
 - [Leslie Roberts](http://www.paintingisdead.com/leslie-roberts.html)
 - [Dear Data](http://www.dear-data.com/)
 
