@@ -54,6 +54,8 @@ If you want, you can browse some other editor themes by selecting **File > Prefe
 
 You can always download your entire project as a ZIP file and re-host it elsewhere (e.g. GitHub Pages, [Neocities](https://neocities.org/), [Netlify](https://www.netlify.com/), etc).
 
+To view the website offline, simply open the `index.html` in Chrome or FireFox. If you are loading assets (JSON, CSV, text) in your project, you may need to run a local server to view the website offline, see [p5.js Local Server](https://github.com/processing/p5.js/wiki/Local-server) for info.
+
 ## 
 
 #### <sup>[← Back to README](../README.md)
