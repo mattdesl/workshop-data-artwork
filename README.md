@@ -1,4 +1,4 @@
-# workshop-webgl-glsl
+# workshop-data-artwork
 
 *A beginner workshop using p5.js and CodeSandbox*
 
