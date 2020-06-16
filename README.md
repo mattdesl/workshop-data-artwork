@@ -16,6 +16,8 @@ This repo contains the source code, exercises, and guides for my "Creative Codin
 
 - 🚀 [Setting Up CodeSandbox](./guides/codesandbox.md)
 
+- 🔍 [Fullscreen in Google Meet](./guides/fullscreen-meet.md)
+
 ## Exercises
 
 - ✏️[Warm-Up Drawing Exercise](./exercises/1-drawing.md)
@@ -26,7 +28,7 @@ This repo contains the source code, exercises, and guides for my "Creative Codin
 
 ## API Documentation
 
-- [p5.js Reference](https://p5js.org/reference/)
+- 📚 [p5.js Reference](https://p5js.org/reference/)
 
 ### 🚀 Empty Starter p5.js Template
 
