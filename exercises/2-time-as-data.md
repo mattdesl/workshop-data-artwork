@@ -28,7 +28,7 @@ The graphics should change in sync with the time, so that if you were to look at
 
 ### 🚀 Example 1 (Beginner)
 
-##### [⟶ Open in CodeSandbox `(p5-clock-abstract)`](https://codesandbox.io/s/p5-abstract-clock-qlf19?file=/sketch.js) 
+##### [⟶ Open in CodeSandbox `(p5-clock-abstract)`](https://codesandbox.io/s/p5-clock-abstract-qlf19?file=/sketch.js) 
 
 An abstract and minimal clockface that treats the three numerical data points as inputs to a graphical system:
 
@@ -46,7 +46,7 @@ An abstract and minimal clockface that treats the three numerical data points as
 ### 🚀 Example 2 (Intermediate)
 
 
-##### [⟶ Open in CodeSandbox `(p5-clock-braille)`](https://codesandbox.io/s/p5-braille-clock-k3t4r?file=/sketch.js)
+##### [⟶ Open in CodeSandbox `(p5-clock-braille)`](https://codesandbox.io/s/p5-clock-braille-k3t4r?file=/sketch.js)
 
 A minimal clockface that encodes each digit of the current time (hour, second, minute) as a braille symbol.
 
@@ -58,7 +58,7 @@ A minimal clockface that encodes each digit of the current time (hour, second, m
 ### 🚀 Example 3 (Advanced)
 
 
-##### [⟶ Open in CodeSandbox `(p5-clock-binary)`](https://codesandbox.io/s/p5-binary-clock-rdt5g?file=/sketch.js)
+##### [⟶ Open in CodeSandbox `(p5-clock-binary)`](https://codesandbox.io/s/p5-clock-binary-rdt5g?file=/sketch.js)
 
 A clockface that encodes each decimal digit in the current time into 6 binary bits of `0` and `1`, drawing a path along a `2x3` grid based on whether the bit is on or off.
 
