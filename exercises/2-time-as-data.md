@@ -11,6 +11,7 @@ The graphics should change in sync with the time, so that if you were to look at
 #### 📚 References
 
 - [Center Clock by Lee Byron (2007)](http://leebyron.com/centerclock/)
+- [The Colour Clock](http://thecolourclock.com/)
 - [Last Clock by Jussi Ängeslevä & Ross Cooper (2002)](http://angesleva.iki.fi/art/last/)
 - [Banded Clock by Golan Levin (1999)](http://www.flong.com/projects/clock/)
 - [The Coding Train #74: Clock with p5.js](https://www.youtube.com/watch?v=E4RyStef-gY)
